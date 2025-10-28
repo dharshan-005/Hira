@@ -1,0 +1,62 @@
+[
+  {
+    "word": "こんにちは",
+    "romaji": "konnichiwa",
+    "meaning": "Hello / Good afternoon",
+    "example": "こんにちは、元気ですか？ (Hello, how are you?)"
+  },
+  {
+    "word": "ありがとう",
+    "romaji": "arigatou",
+    "meaning": "Thank you",
+    "example": "本当にありがとう！ (Thank you very much!)"
+  },
+  {
+    "word": "さようなら",
+    "romaji": "sayounara",
+    "meaning": "Goodbye",
+    "example": "さようなら、また明日！ (Goodbye, see you tomorrow!)"
+  },
+  {
+    "word": "はい",
+    "romaji": "hai",
+    "meaning": "Yes",
+    "example": "はい、わかりました。 (Yes, I understand.)"
+  },
+  {
+    "word": "いいえ",
+    "romaji": "iie",
+    "meaning": "No",
+    "example": "いいえ、違います。 (No, that’s not correct.)"
+  },
+  {
+    "word": "ねこ",
+    "romaji": "neko",
+    "meaning": "Cat",
+    "example": "あのねこはかわいいです。 (That cat is cute.)"
+  },
+  {
+    "word": "いぬ",
+    "romaji": "inu",
+    "meaning": "Dog",
+    "example": "いぬが公園で遊んでいます。 (The dog is playing in the park.)"
+  },
+  {
+    "word": "みず",
+    "romaji": "mizu",
+    "meaning": "Water",
+    "example": "水をください。 (Please give me water.)"
+  },
+  {
+    "word": "たべる",
+    "romaji": "taberu",
+    "meaning": "To eat",
+    "example": "りんごを食べます。 (I eat an apple.)"
+  },
+  {
+    "word": "のむ",
+    "romaji": "nomu",
+    "meaning": "To drink",
+    "example": "お茶を飲みます。 (I drink tea.)"
+  }
+]

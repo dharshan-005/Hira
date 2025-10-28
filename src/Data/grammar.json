@@ -1,0 +1,257 @@
+{
+  "Particles": [
+    {
+      "point": "ちゃいけない / じゃいけない",
+      "romanji": "cha ikenai / ja ikenai",
+      "meaning": "Must not do (spoken Japanese)", 
+      "example": "[translate:ネクタイをしちゃいけない。] (Nekutai o shicha ikenai. - You must not wear a necktie.)"
+    },
+    
+    {
+      "point": "だ / です", 
+      "romanji": "da / desu",
+      "meaning": "To be (am, is, are, were, used to)", 
+      "example": "[translate:私はクリスです。] (Watashi wa Kurisu desu. - I am Chris.)"
+    },
+    
+    {
+      "point": "だけ", 
+      "romanji": "dake",
+      "meaning": "Only, just as much as", 
+      "example": "[translate:一人だけ。] (Hitori dake. - Only one person.)"
+    },
+      
+    {
+      "point": "だろう", 
+      "romanji": "darou",
+      "meaning": "I think, it seems, probably", 
+      "example": "[translate:明日は雨だろう。] (Ashita wa ame darou. - It will probably rain tomorrow.)"
+    },
+    
+    {
+      "point": "で", 
+      "romanji": "de",
+      "meaning": "In, at, on, by, with, via", 
+      "example": "[translate:学校で勉強する。] (Gakkou de benkyou suru. - I study at school.)"
+    },
+    
+    {
+      "point": "でも", 
+      "romanji": "demo",
+      "meaning": "But, however", 
+      "example": "[translate:犬が好きです。でも猫も好きです。] (Inu ga suki desu. Demo neko mo suki desu. - I like dogs. But I also like cats.)"
+    },
+
+    {
+      "point": "でしょう",
+      "romanji": "deshou", 
+      "meaning": "I think it seems probably right?", 
+      "example": "[translate:先生は来るでしょう。] (Sensei wa kuru deshou. - The teacher will probably come.)"
+    },
+
+    {
+      "point": "どうして",
+      "romanji": "donna", 
+      "meaning": "Why, for what reason, how", 
+      "example": "[translate:どうして来なかったの？] (Doushite konakatta no? - Why didn’t you come?)"
+    },
+
+    {
+      "point": "が",
+      "romanji": "ga", 
+      "meaning": "Subject marker; however, but", 
+      "example": "[translate:猫が好きです。] (Neko ga suki desu. - I like cats.)"
+    },
+
+    {
+      "point": "が あります",
+      "romanji": "ga arimasu", 
+      "meaning": "There is (for non-living things)", 
+      "example": "[translate:机の上に本があります。] (Tsukue no ue ni hon ga arimasu. - There is a book on the desk.)"
+    },
+
+    {
+      "point": "が ほしい",
+      "romanji": "ga hoshii",
+      "meaning": "To want something",
+      "example": "[translate:新しい車がほしいです。] (Atarashii kuruma ga hoshii desu. - I want a new car.)"
+    },
+
+    {
+      "point": "が います",
+      "romanji": "ga imasu", 
+      "meaning": "There is/are (for living things)", 
+      "example": "[translate:部屋に猫がいます。] (Heya ni neko ga imasu. - There is a cat in the room.)"
+    },
+
+    {
+      "point": "ほう が いい",
+      "romanji": "hou ga ii", 
+      "meaning": "Had better, it'd be better to, should", 
+      "example": "[translate:早く寝たほうがいいです。] (Hayaku neta hou ga ii desu. - You should go to bed early.)"
+    }
+  ],
+
+  "I-Adjectives": [
+    {
+      "point": "いちばん",
+      "romanji": "", 
+      "meaning": "The most, the best", 
+      "example": "[translate:彼がいちばん速い。] (Kare ga ichiban hayai. - He is the fastest.)"
+    },
+
+    {"point": "いっしょに","romanji": "", "meaning": "Together", "example": "[translate:いっしょに行きましょう。] (Issho ni ikimashou. - Let's go together.)"},
+
+    {"point": "いつも","romanji": "", "meaning": "Always, usually, habitually", "example": "[translate:いつも学校に行きます。] (Itsumo gakkou ni ikimasu. - I always go to school.)"},
+
+    {"point": "じゃない / ではない","romanji": "", "meaning": "To not be; am not, is not, are not", "example": "[translate:彼は学生じゃない。] (Kare wa gakusei janai. - He is not a student.)"},
+
+    {"point": "か","romanji": "", "meaning": "Question particle", "example": "[translate:これはペンですか？] (Kore wa pen desu ka? - Is this a pen?)"},
+
+    {"point": "かか","romanji": "", "meaning": "Or", "example": "[translate:水かお茶を飲みます。] (Mizu ka ocha o nomimasu. - I drink water or tea.)"},
+
+    {"point": "から","romanji": "", "meaning": "Because, since, from", "example": "[translate:忙しいから行けません。] (Isogashii kara ikemasen. - I can't go because I'm busy.)"},
+
+    {"point": "かた","romanji": "", "meaning": "The way of doing something; how to do", "example": "[translate:使いかたを教えて。] (Tsukaikata o oshiete. - Please teach me how to use it.)"},
+
+    {"point": "けど","romanji": "", "meaning": "But, however, although", "example": "[translate:疲れたけど、頑張る。] (Tsukareta kedo, ganbaru. - I'm tired, but I will do my best.)"},
+
+    {"point": "けれども","romanji": "", "meaning": "But, however, although (polite)", "example": "[translate:忙しいけれども行きます。] (Isogashii keredomo ikimasu. - I'm busy, but I will go.)"},
+
+    {"point": "まだ","romanji": "", "meaning": "Still, not yet", "example": "[translate:まだ終わっていません。] (Mada owatte imasen. - I have not finished yet.)"},
+
+    {"point": "まで","romanji": "", "meaning": "Until, up to", "example": "[translate:五時まで勉強します。] (Goji made benkyou shimasu. - I study until 5 o'clock.)"},
+
+    {"point": "まえ に","romanji": "", "meaning": "Before, in front of", "example": "[translate:ご飯の前に手を洗います。] (Gohan no mae ni te o araimasu. - I wash my hands before a meal.)"},
+
+    {"point": "ません か","romanji": "", "meaning": "Would you do...? / Shall we...?", "example": "[translate:映画を見ませんか？] (Eiga o mimasen ka? - Shall we watch a movie?)"},
+
+    {"point": "ましょう","romanji": "", "meaning": "Let's; shall we", "example": "[translate:行きましょう。] (Ikimashou. - Let's go.)"},
+
+    {"point": "ましょうか","romanji": "", "meaning": "Shall I...? Used to offer help", "example": "[translate:手伝いましょうか？] (Tetsudaimashou ka? - Shall I help you?)"},
+
+    {
+      "point": "も",
+      "romanji": "mo", 
+      "meaning": "Too, also, as well", 
+      "example": "[translate:私も行きます。] (Watashi mo ikimasu. - I will go too.)"
+    },
+
+    {
+      "point": "もう",
+      "romanji": "mou", 
+      "meaning": "Already, anymore, again", 
+      "example": "[translate:もう食べました。] (Mou tabemashita. - I already ate.)"
+    }
+  ],
+
+  "Na-Adjectives": [
+    {
+      "point": "なあ",
+      "romanji": "naa", 
+      "meaning": "Sentence-ending particle for emotion or confirmation", "example": "[translate:いい天気だなあ。] (Ii tenki da naa. - It's nice weather, isn't it?)"
+    },
+
+    {
+      "point": "ないで",
+      "romanji": "", 
+      "meaning": "Without doing", 
+      "example": "[translate:宿題をしないで遊んだ。] (Shukudai o shinaide asonda. - I played without doing homework.)"
+    },
+
+    {"point": "ないでください","romanji": "", "meaning": "Please don't do", "example": "[translate:ここに入らないでください。] (Koko ni hairanaide kudasai. - Please don't enter here.)"},
+
+    {"point": "なくてもいい","romanji": "", "meaning": "Don't have to do", "example": "[translate:行かなくてもいいです。] (Ikanakute mo ii desu. - You don't have to go.)"},
+
+    {"point": "なくちゃ / なくてはいけない / なければならない","romanji": "", "meaning": "Must do, have to do", "example": "[translate:宿題をしなくちゃいけない。] (Shukudai o shinakucha ikenai. - I have to do my homework.)"},
+
+    {"point": "なる","romanji": "", "meaning": "To become", "example": "[translate:医者になりました。] (Isha ni narimashita. - I became a doctor.)"},
+
+    {"point": "んです / のです","romanji": "", "meaning": "To explain something or show emphasis", "example": "[translate:遅れたんです。] (Okureta n desu. - I am late (explaining).)"},
+
+    {"point": "ね","romanji": "", "meaning": "Confirmation particle (isn't it?, right?)", "example": "[translate:いい天気ですね。] (Ii tenki desu ne. - It's nice weather, isn't it?)"},
+
+    {"point": "に","romanji": "", "meaning": "Indicates direction, time, or place", "example": "[translate:学校に行きます。] (Gakkou ni ikimasu. - I go to school.)"},
+
+    {"point": "に いく","romanji": "", "meaning": "To go (somewhere)", "example": "[translate:友達に会いに行きます。] (Tomodachi ni ai ni ikimasu. - I go to meet a friend.)"},
+
+    {"point": "にする","romanji": "", "meaning": "To decide on", "example": "[translate:コーヒーにします。] (Kouhii ni shimasu. - I'll have coffee.)"},
+
+    {"point": "にえ","romanji": "", "meaning": "Indicates direction or destination", "example": "[translate:学校にえ行く。] (Gakkou ni e iku. - I'm going toward school.)"},
+
+    {"point": "の","romanji": "", "meaning": "Possessive marker ('s, of)", "example": "[translate:彼の本です。] (Kare no hon desu. - It's his book.)"},
+
+    {"point": "のです","romanji": "", "meaning": "To explain or emphasize (polite)", "example": "[translate:困ったのです。] (Komatta no desu. - I'm troubled (explaining).)"},
+
+    {"point": "のが へた","romanji": "", "meaning": "To be bad at doing something", "example": "[translate:泳ぐのが下手です。] (Oyogu no ga heta desu. - I'm bad at swimming.)"},
+
+    {"point": "のが じょうず","romanji": "", "meaning": "To be good at doing something", "example": "[translate:料理するのが上手です。] (Ryouri suru no ga jouzu desu. - I'm good at cooking.)"},
+
+    {"point": "のが すき","romanji": "", "meaning": "To like doing something", "example": "[translate:走るのが好きです。] (Hashiru no ga suki desu. - I like running.)"},
+
+    {"point": "A の 中で A が いちばん","romanji": "", "meaning": "Out of this group, A is best", "example": "[translate:友達の中で太郎が一番です。] (Tomodachi no naka de Tarou ga ichiban desu. - Tarou is the best among friends.)"},
+
+    {"point": "ので","romanji": "", "meaning": "Because, given that, since (reason)", "example": "[translate:雨なので行きません。] (Ame na node ikimasen. - I won't go because it is raining.)"},
+
+    {"point": "を / お","romanji": "", "meaning": "Direct object marker particle", "example": "[translate:ご飯を食べます。] (Gohan o tabemasu. - I eat rice.)"},
+
+    {"point": "ください","romanji": "", "meaning": "Please give me", "example": "[translate:水をください。] (Mizu o kudasai. - Please give me water.)"},
+
+    {"point": "しかし","romanji": "", "meaning": "But, however (formal)", "example": "[translate:雨でした。しかし、楽しかったです。] (Ame deshita. Shikashi, tanoshikatta desu. - It rained. However, it was fun.)"},
+
+    {"point": "すぎる","romanji": "", "meaning": "Too much", "example": "[translate:食べすぎました。] (Tabesugimashita. - I ate too much.)"},
+
+    {"point": "た こと が ある", "meaning": "To have done something before", "example": "[translate:日本に行ったことがあります。] (Nihon ni itta koto ga arimasu. - I have been to Japan.)"},
+
+    {"point": "たい","romanji": "", "meaning": "Want to do something (verb suffix)", "example": "[translate:映画を見たいです。] (Eiga o mitai desu. - I want to watch a movie.)"},
+
+    {"point": "たり ... たり","romanji": "", "meaning": "Do such things as A and B", "example": "[translate:本を読んだり、音楽を聞いたりします。] (Hon o yondari, ongaku o kiitari shimasu. - I do things like read books and listen to music.)"},
+
+    {"point": "て ある","romanji": "", "meaning": "Has been done (resulting state)", "example": "[translate:ドアが開けてあります。] (Doa ga akete arimasu. - The door has been opened.)"},
+
+    {"point": "て いる","romanji": "", "meaning": "Ongoing action or current state", "example": "[translate:勉強しています。] (Benkyou shiteimasu. - I am studying.)"},
+
+    {"point": "て から","romanji": "", "meaning": "After doing", "example": "[translate:食べてから勉強します。] (Tabete kara benkyou shimasu. - I study after eating.)"},
+
+    {"point": "て ください","romanji": "", "meaning": "Please do (request)", "example": "[translate:見てください。] (Mite kudasai. - Please look.)"},
+
+    {"point": "て は いけない","romanji": "", "meaning": "Must not do, may not, cannot", "example": "[translate:ここでたばこを吸ってはいけません。] (Koko de tabako o sutte wa ikemasen. - You must not smoke here.)"},
+
+    {"point": "ても いい","romanji": "", "meaning": "Is OK to..., may I...?", "example": "[translate:入ってもいいですか。] (Haitte mo ii desu ka. - May I come in?)"},
+
+    {"point": "と","romanji": "", "meaning": "And (listing), with", "example": "[translate:友達と話します。] (Tomodachi to hanashimasu. - I talk with a friend.)"},
+
+    {"point": "とき","romanji": "", "meaning": "When, at this time", "example": "[translate:学校へ行くとき、雨が降っていました。] (Gakkou e iku toki, ame ga futte imashita. - It was raining when I went to school.)"},
+
+    {"point": "とても","romanji": "", "meaning": "Very, extremely", "example": "[translate:とても暑いです。] (Totemo atsui desu. - It is very hot.)"},
+
+    {"point": "つもり","romanji": "", "meaning": "Plan to, intend to", "example": "[translate:日本へ行くつもりです。] (Nihon e iku tsumori desu. - I plan to go to Japan.)"},
+
+    {"point": "は","romanji": "", "meaning": "Topic marker (as for...)", "example": "[translate:私は学生です。] (Watashi wa gakusei desu. - I am a student.)"},
+
+    {"point": "は より ... です","romanji": "", "meaning": "A is more than B", "example": "[translate:猫は犬より小さいです。] (Neko wa inu yori chiisai desu. - Cats are smaller than dogs.)"},
+
+    {"point": "は どう です か","romanji": "", "meaning": "How about..., how is...", "example": "[translate:日本はどうですか？] (Nihon wa dou desu ka? - How is Japan?)"},
+
+    {
+      "point": "や",
+      "romanji": "ya", 
+      "meaning": "And, or (listing)", 
+      "example": "[translate:りんごやバナナを食べます。] (Ringo ya banana o tabemasu. - I eat apples and bananas, among other things.)"
+    },
+
+    {
+      "point": "よ",
+      "romanji": "yo", 
+      "meaning": "Emphasis particle (you know)", 
+      "example": "[translate:これは美味しいよ。] (Kore wa oishii yo. - This is tasty, you know.)"
+    },
+
+    {
+      "point": "より ほう が",
+      "romanji": "yori hou ga", 
+      "meaning": "A is more than B (emphasizing comparison)", 
+      "example": "[translate:映画より本のほうが好きです。] (Eiga yori hon no hou ga suki desu. - I like books more than movies.)"
+    }
+  ]
+}
