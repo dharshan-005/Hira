@@ -1,0 +1,17 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <title>Hira app icon</title>
+  <desc>Hanko-style seal stamp mark for the Hira Japanese learning app</desc>
+
+  <!-- rounded app-icon background -->
+  <rect x="0" y="0" width="512" height="512" rx="112" fill="#F5C4B3"/>
+
+  <!-- seal square -->
+  <rect x="96" y="96" width="320" height="320" rx="28" fill="#D85A30"/>
+
+  <!-- subtle inner border, like a carved stamp edge -->
+  <rect x="120" y="120" width="272" height="272" rx="18" fill="none" stroke="#712B13" stroke-width="6" stroke-opacity="0.4"/>
+
+  <!-- character mark -->
+  <text x="256" y="318" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="200" font-weight="500" fill="#FAECE7">hi</text>
+
+</svg>
