@@ -2,11 +2,18 @@ import React from "react";
 import hiraganaData from "../data/hiragana.json";
 import ThemeToggle from "../Components/Themes";
 
+import { ArrowLeft } from "lucide-react";
+import { useNavigate } from "react-router-dom";
+
 const Hiragana = () => {
+  const navigate = useNavigate();
   return (
     <div className="p-6">
       <div className="flex items-center justify-between mb-4">
-        <h2 className="text-2xl font-bold mb-4">Hiragana Chart</h2>
+        <button onClick={() => navigate(-1)}>
+          <ArrowLeft />
+        </button>
+        <h2 className="text-2xl font-bold">Hiragana Chart</h2>
         <ThemeToggle />
       </div>
       <div className="overflow-x-auto">

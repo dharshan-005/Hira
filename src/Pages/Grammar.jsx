@@ -1,11 +1,17 @@
 import React from "react";
 import grammarData from "../data/grammar.json";
 import ThemeToggle from "../Components/Themes";
+import { useNavigate } from "react-router-dom";
+import { ArrowLeft } from "lucide-react";
 
 const Grammar = () => {
+  const navigate = useNavigate();
   return (
     <div className="p-6">
       <div className="flex items-center justify-between mb-6">
+        <button onClick={() => navigate(-1)}>
+          <ArrowLeft />
+        </button>
         <h2 className="text-2xl font-bold mb-6">Grammar</h2>
         <ThemeToggle />
       </div>
