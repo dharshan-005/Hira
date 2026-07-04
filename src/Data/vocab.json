@@ -1,62 +1,656 @@
 [
   {
     "word": "こんにちは",
-    "romaji": "konnichiwa",
+    "romanji": "konnichiwa",
     "meaning": "Hello / Good afternoon",
     "example": "こんにちは、元気ですか？ (Hello, how are you?)"
   },
   {
     "word": "ありがとう",
-    "romaji": "arigatou",
+    "romanji": "arigatou",
     "meaning": "Thank you",
     "example": "本当にありがとう！ (Thank you very much!)"
   },
   {
     "word": "さようなら",
-    "romaji": "sayounara",
+    "romanji": "sayounara",
     "meaning": "Goodbye",
     "example": "さようなら、また明日！ (Goodbye, see you tomorrow!)"
   },
   {
     "word": "はい",
-    "romaji": "hai",
+    "romanji": "hai",
     "meaning": "Yes",
     "example": "はい、わかりました。 (Yes, I understand.)"
   },
   {
     "word": "いいえ",
-    "romaji": "iie",
+    "romanji": "iie",
     "meaning": "No",
     "example": "いいえ、違います。 (No, that’s not correct.)"
   },
   {
     "word": "ねこ",
-    "romaji": "neko",
+    "romanji": "neko",
     "meaning": "Cat",
     "example": "あのねこはかわいいです。 (That cat is cute.)"
   },
   {
     "word": "いぬ",
-    "romaji": "inu",
+    "romanji": "inu",
     "meaning": "Dog",
     "example": "いぬが公園で遊んでいます。 (The dog is playing in the park.)"
   },
   {
     "word": "みず",
-    "romaji": "mizu",
+    "romanji": "mizu",
     "meaning": "Water",
     "example": "水をください。 (Please give me water.)"
   },
   {
     "word": "たべる",
-    "romaji": "taberu",
+    "romanji": "taberu",
     "meaning": "To eat",
     "example": "りんごを食べます。 (I eat an apple.)"
   },
   {
     "word": "のむ",
-    "romaji": "nomu",
+    "romanji": "nomu",
     "meaning": "To drink",
     "example": "お茶を飲みます。 (I drink tea.)"
+  },
+  {
+    "word": "あう",
+    "romanji": "au",
+    "meaning": "to meet",
+    "example": "友だちに会います。 (I will meet a friend.)"
+  },
+  {
+    "word": "あおい",
+    "romanji": "aoi",
+    "meaning": "blue",
+    "example": "空は青いです。 (The sky is blue.)"
+  },
+  {
+    "word": "あかい",
+    "romanji": "akai",
+    "meaning": "red",
+    "example": "赤い花がきれいです。 (The red flowers are beautiful.)"
+  },
+  {
+    "word": "あかるい",
+    "romanji": "akarui",
+    "meaning": "bright",
+    "example": "部屋は明るいです。 (The room is bright.)"
+  },
+  {
+    "word": "あき",
+    "romanji": "aki",
+    "meaning": "autumn",
+    "example": "秋が好きです。 (I like autumn.)"
+  },
+  {
+    "word": "あく",
+    "romanji": "aku",
+    "meaning": "to open",
+    "example": "ドアが開きます。 (The door opens.)"
+  },
+  {
+    "word": "あける",
+    "romanji": "akeru",
+    "meaning": "to open (something)",
+    "example": "窓を開けます。 (I open the window.)"
+  },
+  {
+    "word": "あげる",
+    "romanji": "ageru",
+    "meaning": "to give",
+    "example": "友だちに本をあげます。 (I give my friend a book.)"
+  },
+  {
+    "word": "あさ",
+    "romanji": "asa",
+    "meaning": "morning",
+    "example": "朝ごはんを食べます。 (I eat breakfast.)"
+  },
+  {
+    "word": "あさごはん",
+    "romanji": "asagohan",
+    "meaning": "breakfast",
+    "example": "朝ごはんはパンです。 (Breakfast is bread.)"
+  },
+  {
+    "word": "あさって",
+    "romanji": "asatte",
+    "meaning": "day after tomorrow",
+    "example": "あさって学校があります。 (I have school the day after tomorrow.)"
+  },
+  {
+    "word": "あし",
+    "romanji": "ashi",
+    "meaning": "leg / foot",
+    "example": "足が痛いです。 (My foot hurts.)"
+  },
+  {
+    "word": "あした",
+    "romanji": "ashita",
+    "meaning": "tomorrow",
+    "example": "明日は休みです。 (Tomorrow is a holiday.)"
+  },
+  {
+    "word": "あそこ",
+    "romanji": "asoko",
+    "meaning": "over there",
+    "example": "あそこに猫がいます。 (There is a cat over there.)"
+  },
+  {
+    "word": "あそぶ",
+    "romanji": "asobu",
+    "meaning": "to play",
+    "example": "公園で遊びます。 (I play at the park.)"
+  },
+  {
+    "word": "あたたかい",
+    "romanji": "atatakai",
+    "meaning": "warm",
+    "example": "今日は暖かいです。 (It is warm today.)"
+  },
+  {
+    "word": "あたま",
+    "romanji": "atama",
+    "meaning": "head",
+    "example": "頭が痛いです。 (My head hurts.)"
+  },
+  {
+    "word": "あたらしい",
+    "romanji": "atarashii",
+    "meaning": "new",
+    "example": "新しい車です。 (It’s a new car.)"
+  },
+  {
+    "word": "あつい",
+    "romanji": "atsui",
+    "meaning": "hot",
+    "example": "今日は暑いです。 (It is hot today.)"
+  },
+  {
+    "word": "あつい",
+    "romanji": "atsui",
+    "meaning": "thick",
+    "example": "厚い本です。 (It’s a thick book.)"
+  },
+  {
+    "word": "あつめる",
+    "romanji": "atsumeru",
+    "meaning": "to collect / gather",
+    "example": "切手を集めます。 (I collect stamps.)"
+  },
+  {
+    "word": "あと",
+    "romanji": "ato",
+    "meaning": "after / later",
+    "example": "仕事のあとで映画を見ます。 (I will watch a movie after work.)"
+  },
+  {
+    "word": "あなた",
+    "romanji": "anata",
+    "meaning": "you",
+    "example": "あなたの名前は何ですか。 (What is your name?)"
+  },
+  {
+    "word": "あに",
+    "romanji": "ani",
+    "meaning": "older brother (mine)",
+    "example": "兄は学生です。 (My older brother is a student.)"
+  },
+  {
+    "word": "あね",
+    "romanji": "ane",
+    "meaning": "older sister (mine)",
+    "example": "姉は先生です。 (My older sister is a teacher.)"
+  },
+  {
+    "word": "アパート",
+    "romanji": "apaato",
+    "meaning": "apartment",
+    "example": "アパートに住んでいます。 (I live in an apartment.)"
+  },
+  {
+    "word": "あびる",
+    "romanji": "abiru",
+    "meaning": "to take (a shower)",
+    "example": "シャワーを浴びます。 (I take a shower.)"
+  },
+  {
+    "word": "あぶない",
+    "romanji": "abunai",
+    "meaning": "dangerous",
+    "example": "ここは危ないです。 (This place is dangerous.)"
+  },
+  {
+    "word": "あまい",
+    "romanji": "amai",
+    "meaning": "sweet",
+    "example": "甘いケーキが好きです。 (I like sweet cake.)"
+  },
+  {
+    "word": "あまり",
+    "romanji": "amari",
+    "meaning": "not much (with negative)",
+    "example": "映画はあまり見ません。 (I don't watch movies much.)"
+  },
+  {
+    "word": "あめ",
+    "romanji": "ame",
+    "meaning": "rain",
+    "example": "今日は雨です。 (It’s raining today.)"
+  },
+  {
+    "word": "あめ",
+    "romanji": "ame",
+    "meaning": "candy",
+    "example": "あめを食べます。 (I eat candy.)"
+  },
+  {
+    "word": "あらう",
+    "romanji": "arau",
+    "meaning": "to wash",
+    "example": "手を洗います。 (I wash my hands.)"
+  },
+  {
+    "word": "ある",
+    "romanji": "aru",
+    "meaning": "to exist (non-living)",
+    "example": "机の上に本があります。 (There is a book on the desk.)"
+  },
+  {
+    "word": "あるく",
+    "romanji": "aruku",
+    "meaning": "to walk",
+    "example": "学校まで歩きます。 (I walk to school.)"
+  },
+  {
+    "word": "あれ",
+    "romanji": "are",
+    "meaning": "that (over there)",
+    "example": "あれは私のかばんです。 (That over there is my bag.)"
+  },
+  {
+    "word": "いい",
+    "romanji": "ii",
+    "meaning": "good",
+    "example": "この本はいいです。 (This book is good.)"
+  },
+  {
+    "word": "いう",
+    "romanji": "iu",
+    "meaning": "to say",
+    "example": "「こんにちは」と言います。 (I say 'hello'.)"
+  },
+  {
+    "word": "いえ",
+    "romanji": "ie",
+    "meaning": "house / home",
+    "example": "家に帰ります。 (I go home.)"
+  },
+  {
+    "word": "いかが",
+    "romanji": "ikaga",
+    "meaning": "how (polite)",
+    "example": "コーヒーはいかがですか。 (How about some coffee?)"
+  },
+  {
+    "word": "いく",
+    "romanji": "iku",
+    "meaning": "to go",
+    "example": "学校へ行きます。 (I go to school.)"
+  },
+  {
+    "word": "いくつ",
+    "romanji": "ikutsu",
+    "meaning": "how many / how old",
+    "example": "これはいくつですか。 (How many are these?)"
+  },
+  {
+    "word": "いくら",
+    "romanji": "ikura",
+    "meaning": "how much",
+    "example": "これはいくらですか。 (How much is this?)"
+  },
+  {
+    "word": "いけ",
+    "romanji": "ike",
+    "meaning": "pond",
+    "example": "池に魚がいます。 (There are fish in the pond.)"
+  },
+  {
+    "word": "いしゃ",
+    "romanji": "isha",
+    "meaning": "doctor",
+    "example": "医者に行きます。 (I am going to the doctor.)"
+  },
+  {
+    "word": "いす",
+    "romanji": "isu",
+    "meaning": "chair",
+    "example": "椅子に座ります。 (I sit on the chair.)"
+  },
+  {
+    "word": "いそがしい",
+    "romanji": "isogashii",
+    "meaning": "busy",
+    "example": "今日は忙しいです。 (I am busy today.)"
+  },
+  {
+    "word": "いたい",
+    "romanji": "itai",
+    "meaning": "painful / hurts",
+    "example": "頭が痛いです。 (My head hurts.)"
+  },
+  {
+    "word": "いち",
+    "romanji": "ichi",
+    "meaning": "one",
+    "example": "一つください。 (Please give me one.)"
+  },
+  {
+    "word": "いちにち",
+    "romanji": "ichinichi",
+    "meaning": "one day",
+    "example": "一日勉強しました。 (I studied for the whole day.)"
+  },
+  {
+    "word": "いちばん",
+    "romanji": "ichiban",
+    "meaning": "the best / number one",
+    "example": "寿司が一番好きです。 (I like sushi the most.)"
+  },
+  {
+    "word": "いつ",
+    "romanji": "itsu",
+    "meaning": "when",
+    "example": "いつ行きますか。 (When will you go?)"
+  },
+  {
+    "word": "いつか",
+    "romanji": "itsuka",
+    "meaning": "someday",
+    "example": "いつか日本に行きたいです。 (I want to go to Japan someday.)"
+  },
+  {
+    "word": "いっしょ",
+    "romanji": "issho",
+    "meaning": "together",
+    "example": "一緒に食べましょう。 (Let's eat together.)"
+  },
+  {
+    "word": "いっぷん",
+    "romanji": "ippun",
+    "meaning": "one minute",
+    "example": "一分待ってください。 (Please wait one minute.)"
+  },
+  {
+    "word": "いぬ",
+    "romanji": "inu",
+    "meaning": "dog",
+    "example": "犬が走っています。 (The dog is running.)"
+  },
+  {
+    "word": "いま",
+    "romanji": "ima",
+    "meaning": "now",
+    "example": "今、家にいます。 (I am at home now.)"
+  },
+  {
+    "word": "いみ",
+    "romanji": "imi",
+    "meaning": "meaning",
+    "example": "この言葉の意味は何ですか。 (What is the meaning of this word?)"
+  },
+  {
+    "word": "いもうと",
+    "romanji": "imouto",
+    "meaning": "younger sister",
+    "example": "妹は元気です。 (My younger sister is healthy.)"
+  },
+  {
+    "word": "いや",
+    "romanji": "iya",
+    "meaning": "unpleasant / dislike",
+    "example": "それは嫌です。 (I don't like that.)"
+  },
+  {
+    "word": "いりぐち",
+    "romanji": "iriguchi",
+    "meaning": "entrance",
+    "example": "入り口はこちらです。 (The entrance is this way.)"
+  },
+  {
+    "word": "いる",
+    "romanji": "iru",
+    "meaning": "to exist (living things)",
+    "example": "猫が家にいます。 (A cat is in the house.)"
+  },
+  {
+    "word": "いれる",
+    "romanji": "ireru",
+    "meaning": "to put in",
+    "example": "カバンに本を入れます。 (I put a book in my bag.)"
+  },
+  {
+    "word": "いろ",
+    "romanji": "iro",
+    "meaning": "color",
+    "example": "好きな色は何ですか。 (What is your favorite color?)"
+  },
+  {
+    "word": "いろいろ",
+    "romanji": "iroiro",
+    "meaning": "various",
+    "example": "いろいろな果物があります。 (There are various fruits.)"
+  },
+  {
+    "word": "うえ",
+    "romanji": "ue",
+    "meaning": "up / above",
+    "example": "棚の上にあります。 (It is on the shelf.)"
+  },
+  {
+    "word": "うしろ",
+    "romanji": "ushiro",
+    "meaning": "behind",
+    "example": "家の後ろに庭があります。 (There is a garden behind the house.)"
+  },
+  {
+    "word": "うすい",
+    "romanji": "usui",
+    "meaning": "thin",
+    "example": "薄い紙です。 (It is thin paper.)"
+  },
+  {
+    "word": "うた",
+    "romanji": "uta",
+    "meaning": "song",
+    "example": "歌を聞きます。 (I listen to songs.)"
+  },
+  {
+    "word": "うたう",
+    "romanji": "utau",
+    "meaning": "to sing",
+    "example": "カラオケで歌います。 (I sing at karaoke.)"
+  },
+  {
+    "word": "うち",
+    "romanji": "uchi",
+    "meaning": "house / home",
+    "example": "うちに帰ります。 (I go home.)"
+  },
+  {
+    "word": "うまれる",
+    "romanji": "umareru",
+    "meaning": "to be born",
+    "example": "私は日本で生まれました。 (I was born in Japan.)"
+  },
+  {
+    "word": "うみ",
+    "romanji": "umi",
+    "meaning": "sea / ocean",
+    "example": "海がきれいです。 (The sea is beautiful.)"
+  },
+  {
+    "word": "うる",
+    "romanji": "uru",
+    "meaning": "to sell",
+    "example": "店で服を売っています。 (The shop sells clothes.)"
+  },
+  {
+    "word": "うるさい",
+    "romanji": "urusai",
+    "meaning": "noisy / annoying",
+    "example": "外がうるさいです。 (It’s noisy outside.)"
+  },
+  {
+    "word": "うわぎ",
+    "romanji": "uwagi",
+    "meaning": "jacket / coat",
+    "example": "上着を着てください。 (Please wear your jacket.)"
+  },
+  {
+    "word": "えいが",
+    "romanji": "eiga",
+    "meaning": "movie",
+    "example": "映画を見ます。 (I watch a movie.)"
+  },
+  {
+    "word": "えいご",
+    "romanji": "eigo",
+    "meaning": "English language",
+    "example": "英語を勉強します。 (I study English.)"
+  },
+  {
+    "word": "えき",
+    "romanji": "eki",
+    "meaning": "station",
+    "example": "駅で電車を待ちます。 (I wait for the train at the station.)"
+  },
+  {
+    "word": "エレベーター",
+    "romanji": "erebeetaa",
+    "meaning": "elevator",
+    "example": "エレベーターで上に行きます。 (I go up by elevator.)"
+  },
+  {
+    "word": "はなす",
+    "romanji": "hanasu",
+    "meaning": "To speak / To talk",
+    "example": "日本語を話します。 (I speak Japanese.)"
+  },
+  {
+    "word": "きく",
+    "romanji": "kiku",
+    "meaning": "To listen / To ask",
+    "example": "音楽を聞きます。 (I listen to music.)"
+  },
+  {
+    "word": "みる",
+    "romanji": "miru",
+    "meaning": "To see / To watch",
+    "example": "映画を見ます。 (I watch a movie.)"
+  },
+  {
+    "word": "かう",
+    "romanji": "kau",
+    "meaning": "To buy",
+    "example": "りんごを買います。 (I buy an apple.)"
+  },
+  {
+    "word": "かく",
+    "romanji": "kaku",
+    "meaning": "To write",
+    "example": "手紙を書きます。 (I write a letter.)"
+  },
+  {
+    "word": "のる",
+    "romanji": "noru",
+    "meaning": "To ride",
+    "example": "バスに乗ります。 (I ride the bus.)"
+  },
+  {
+    "word": "あるく",
+    "romanji": "aruku",
+    "meaning": "To walk",
+    "example": "学校まで歩きます。 (I walk to school.)"
+  },
+  {
+    "word": "はしる",
+    "romanji": "hashiru",
+    "meaning": "To run",
+    "example": "公園で走ります。 (I run in the park.)"
+  },
+  {
+    "word": "つくる",
+    "romanji": "tsukuru",
+    "meaning": "To make / To create",
+    "example": "ケーキを作ります。 (I make a cake.)"
+  },
+  {
+    "word": "まつ",
+    "romanji": "matsu",
+    "meaning": "To wait",
+    "example": "ここで待ってください。 (Please wait here.)"
+  },
+  {
+    "word": "のぼる",
+    "romanji": "noboru",
+    "meaning": "To climb / To go up",
+    "example": "山に登ります。 (I climb a mountain.)"
+  },
+  {
+    "word": "しぬ",
+    "romanji": "shinu",
+    "meaning": "To die",
+    "example": "魚が死にました。 (The fish died.)"
+  },
+  {
+    "word": "すわる",
+    "romanji": "suwaru",
+    "meaning": "To sit",
+    "example": "ここに座ってください。 (Please sit here.)"
+  },
+  {
+    "word": "たつ",
+    "romanji": "tatsu",
+    "meaning": "To stand",
+    "example": "起立してください。 (Please stand up.)"
+  },
+  {
+    "word": "あびる",
+    "romanji": "abiru",
+    "meaning": "To bathe / To shower",
+    "example": "シャワーを浴びます。 (I take a shower.)"
+  },
+  {
+    "word": "あける",
+    "romanji": "akeru",
+    "meaning": "To open",
+    "example": "ドアを開けてください。 (Please open the door.)"
+  },
+  {
+    "word": "しめる",
+    "romanji": "shimeru",
+    "meaning": "To close",
+    "example": "窓を閉めます。 (I close the window.)"
+  },
+  {
+    "word": "はいる",
+    "romanji": "hairu",
+    "meaning": "To enter",
+    "example": "部屋に入ります。 (I enter the room.)"
+  },
+  {
+    "word": "でる",
+    "romanji": "deru",
+    "meaning": "To exit / To leave",
+    "example": "家を出ます。 (I leave the house.)"
   }
 ]

@@ -6,7 +6,7 @@ const N2 = () => {
     <>
     <div className='min-h-screen'>
     <Navbar />
-    <div className='flex flex-col gap-7 text-white items-center justify-center h-150'>
+    <div className='flex flex-col gap-7 items-center justify-center h-150'>
       <div className='flex items-center flex-col'>
         <h1 className='text-5xl'>N2</h1>
         <br />

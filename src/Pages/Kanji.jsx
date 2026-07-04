@@ -1,10 +1,14 @@
 import React from "react";
 import kanjiData from "../data/kanji.json";
+import ThemeToggle from "../Components/Themes";
 
 const Kanji = () => {
   return (
     <div className="p-6">
-      <h2 className="text-2xl font-bold mb-4">Basic Kanji (1–100)</h2>
+      <div className="flex items-center justify-between mb-4">
+        <h2 className="text-2xl font-bold mb-4">Basic Kanji (1–100)</h2>
+        <ThemeToggle />
+      </div>
       <div className="overflow-x-auto">
         <table className="min-w-full border border-gray-300">
           <thead>

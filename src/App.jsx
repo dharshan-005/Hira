@@ -18,7 +18,7 @@ function App() {
 
   return (
     <>
-    <div className='bg-black text-white'>
+    <div className='bg-[#fff2e6] text-black dark:bg-[#0D0907] dark:text-white'>
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/hiragana" element={<Hiragana />} />
